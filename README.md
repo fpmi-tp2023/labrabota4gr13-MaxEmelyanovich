@@ -1,1 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/AX-8vGTq)
+# Overview
+
+Список веток репозитория: 
+- main
+- examples
+
+Сначала примеры были реализованы в ветке examples, после чего изменения были запушены
+в удаленный репозиторий, а затем был выполнен pull request и ветка examples была слита
+с веткой main. Таким образом и ветка main, и ветка examples содержит реализованные примеры
+
+# Usage
+
+# Building
+
+# Additional notes
+
+https://docs.google.com/document/d/1-yqtlmGWhz4ce9-4-vzwG2ibL8PdvKNcptz7fDO2LlQ/edit - отчет
