@@ -1,16 +1,17 @@
 # Overview
 
-Application is a middleware for sqlite3 data base usage. SELECT, UPDATE, DELETE and INSERT queries are implemented, user can choose transaction mode or autoconmit mode.
+Список веток репозитория: 
+- main
+- examples
+- dev
+
+Ветка examples содержит реализованные примеры из задания 4, ветка dev содержит проект для задания 6. После выполнения pull request ветка dev была слита с веткой
+main. Таким образом, main так же как и ветка dev содержит проект из задания 6 
 
 # Usage
 
-Application is cross-platform, only compilator is specified. By defauld gnu gcc is used. To change the compiler, change Makefile with usage of your compiler
-
 # Building
-
-Application is built using Makefile
 
 # Additional notes
 
-report link: https://docs.google.com/document/d/1-yqtlmGWhz4ce9-4-vzwG2ibL8PdvKNcptz7fDO2LlQ
-
+https://docs.google.com/document/d/1-yqtlmGWhz4ce9-4-vzwG2ibL8PdvKNcptz7fDO2LlQ/edit - отчет
