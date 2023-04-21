@@ -1,7 +1,6 @@
 # Overview
 
 Application is a middleware for sqlite3 data base usage. SELECT, UPDATE, DELETE and INSERT queries are implemented, user can choose transaction mode or autoconmit mode.
-All images are saved in one file in directory 'images/'
 
 # Usage
 
